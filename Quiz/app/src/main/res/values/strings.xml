@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="sets">Sets</string>
+    <string name="_5_10">5/10</string>
+    <string name="button">Button</string>
+    <string name="quiz">Quiz</string>
+    <string name="textview">textview</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+</resources>
